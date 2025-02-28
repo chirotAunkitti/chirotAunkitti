@@ -69,8 +69,4 @@
   <img src="https://github-profile-trophy.vercel.app/?username=chirotAunkitti&theme=nord&column=7" alt="trophy" />
 </div>
 
----
 
-<div align="center">
-  <sub>⭐ หากโค้ดของฉันช่วยคุณได้ การให้ดาวในโปรเจกต์จะเป็นกำลังใจอย่างมาก! ⭐</sub>
-</div>
