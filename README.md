@@ -25,9 +25,11 @@
       </div>
       <h3 align="center">🛠️ Frameworks</h3>
       <div align="center">
-        <img src="https://img.shields.io/badge/spring%20boot-%236DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white" />
-        <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" />
+        <img src="https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" />
         <img src="https://img.shields.io/badge/react-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" />
+        <img src="https://img.shields.io/badge/spring%20boot-%236DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white" />
         <img src="https://img.shields.io/badge/.NET-%235C2D91.svg?style=for-the-badge&logo=.net&logoColor=white" />
       </div>
     </td>
@@ -36,6 +38,7 @@
       <div align="center">
         <img src="https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
         <img src="https://img.shields.io/badge/postgresql-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
+        <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&logoColor=white" />
       </div>
       <h3 align="center">🧰 Tools</h3>
       <div align="center">
@@ -63,9 +66,9 @@
   
   | Language | Proficiency |
   |----------|-------------|
-  | JavaScript | ███████████ 90% |
-  | Java | ████████░░ 70% |
-  | TypeScript | ███████░░░ 65% |
+  | JavaScript | ███████████░ 90% |
+  | TypeScript | ████████░░ 90% |
+  |   | Java | ███████░░░ 65% |
   | Python | ██████░░░░ 60% |
   | C++ | █████░░░░░ 50% |
   | CSS | ████████░░ 70% |
