@@ -1,122 +1,98 @@
-# <div align="center">👨‍💻 WELCOME TO MY CODING UNIVERSE 🚀</div>
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F73283&center=true&vCenter=true&width=435&lines=Fullstack+Developer;Code+Craftsman;Tech+Enthusiast;Problem+Solver" alt="Typing SVG" />
+
+# Hi, I'm Chirot Aunkitti 👋
+
+### Full Stack Developer | AI Automation
+
+I build business applications and AI workflows for logistics and freight forwarding.
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:chirot230346@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/chirotAunkitti)
+
 </div>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/hS42TuYYnANLFR9IRQ/giphy.gif" width="300" height="200"/>
-</div>
+## About Me
 
-## <div align="center">⚡ TECH STACK & SKILLS ⚡</div>
+I'm a Full Stack Developer with hands-on experience turning business requirements into web applications, backend APIs, and automated workflows. My work covers logistics operations, from pricing and quotations to approvals, job management, and accounting workflows.
 
-<table align="center">
-  <tr>
-    <td valign="top" width="50%">
-      <h3 align="center">💻 Languages</h3>
-      <div align="center">
-        <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" />
-        <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
-        <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
-        <img src="https://img.shields.io/badge/typescript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white" />
-        <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-        <img src="https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
-        <img src="https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" />
-      </div>
-      <h3 align="center">🛠️ Frameworks</h3>
-      <div align="center">
-        <img src="https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white" />
-        <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/react-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black" />
-        <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" />
-        <img src="https://img.shields.io/badge/spring%20boot-%236DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white" />
-        <img src="https://img.shields.io/badge/.NET-%235C2D91.svg?style=for-the-badge&logo=.net&logoColor=white" />
-      </div>
-    </td>
-    <td valign="top" width="50%">
-      <h3 align="center">🗄️ Databases</h3>
-      <div align="center">
-        <img src="https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
-        <img src="https://img.shields.io/badge/postgresql-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
-        <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&logoColor=white" />
-      </div>
-      <h3 align="center">🧰 Tools</h3>
-      <div align="center">
-        <img src="https://img.shields.io/badge/vs%20code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-        <img src="https://img.shields.io/badge/intellij%20idea-%23000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />
-        <img src="https://img.shields.io/badge/github-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" />
-        <img src="https://img.shields.io/badge/gitlab-%23FC6D26.svg?style=for-the-badge&logo=gitlab&logoColor=white" />
-        <img src="https://img.shields.io/badge/postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white" />
-        <img src="https://img.shields.io/badge/dbeaver-%23382923.svg?style=for-the-badge&logo=dbeaver&logoColor=white" />
-        <img src="https://img.shields.io/badge/visual%20studio-%235C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white" />
-      </div>
-    </td>
-  </tr>
-</table>
+I also develop AI document-processing workflows that turn uploaded files and pricing tables into structured business data, with confidence scores and human review before the results are used.
 
-## <div align="center">🔥 MY LANGUAGE PROFICIENCY 🔥</div>
+- **Core stack:** TypeScript, Next.js, NestJS, PostgreSQL, and TypeORM.
+- **AI and automation:** Document extraction, prompt design, scheduled tasks, and PDF generation.
+- **Cloud and delivery:** AWS, Docker, and GitLab CI/CD.
+- **Interests:** Business applications, ERP workflows, software integration, and practical AI automation.
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chirotAunkitti&theme=radical&layout=compact" alt="Top Languages" />
-</div>
+## What I've Built
 
-<div align="center">
-  
-  ### ⭐ Language Expertise ⭐
-  
-  | Language | Proficiency |
-  |----------|-------------|
-  | JavaScript | ███████████░░ 90% |
-  | TypeScript | ████████░░ 90% |
-  |  Java | ███████░░░ 65% |
-  | Python | ██████░░░░ 60% |
-  | C++ | █████░░░░░ 50% |
-  | CSS | ████████░░ 70% |
-  | Kotlin | ██████░░░░░ 50% |
-  
-</div>
+### Business Applications for Logistics
 
-## <div align="center">📊 GITHUB ACTIVITY 📊</div>
+- Developed web interfaces with Next.js and backend APIs with NestJS.
+- Built workflows for pricing, quotations, approvals, job management, and accounting.
+- Connected application interfaces, backend services, and PostgreSQL data using TypeORM.
+- Developed a mobile application with Expo.
 
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%" align="center">
-        <h3>📈 Stats Summary</h3>
-        <img src="https://github-readme-stats.vercel.app/api?username=chirotAunkitti&show_icons=true&theme=radical" alt="GitHub Stats" />
-      </td>
-      <td width="50%" align="center">
-        <h3>🔥 Streak Stats</h3>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=chirotAunkitti&theme=radical&border=7F3FBF&background=0D1117" alt="GitHub Streak" />
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <h3>✨ Contribution Summary</h3>
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chirotAunkitti&theme=radical" alt="Contribution Graph" />
-      </td>
-    </tr>
-  </table>
-</div>
+### AI Document Processing
 
-## <div align="center">📫 CONNECT WITH ME 📫</div>
+- Built workflows connecting document uploads, Amazon S3 storage, and structured field extraction.
+- Designed prompts for operational, financial, and onboarding documents.
+- Added field-level confidence scores and a human review step before populating document drafts.
+- Converted pricing tables from partner files into structured records for business applications.
+- Integrated in-app AI assistance and logged AI service usage and costs.
 
-<div align="center">
-  <a href="mailto:chirot230346@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.facebook.com/yourprofile"><img src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
-  <a href="https://www.instagram.com/yourprofile"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://t.me/yourtelegram"><img src="https://img.shields.io/badge/-Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-  <a href="https://discord.com/users/yourdiscord"><img src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
-</div>
+### Automation and Cloud Delivery
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=chirotAunkitti&style=for-the-badge&color=blueviolet" alt="Profile Views" />
-</div>
+- Automated PDF and form generation with Puppeteer and Docker.
+- Implemented scheduled tasks for application workflows.
+- Built a delivery pipeline from GitLab to AWS CodeBuild, Amazon ECR, and Amazon ECS.
+- Implemented S3 file access with time-limited presigned URLs and used Amazon RDS for PostgreSQL.
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=chirotAunkitti&theme=radical&row=1&column=6&margin-w=15&margin-h=15" alt="trophy" />
-</div>
+## Tech Stack
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
-</div>
+### Primary Stack
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![TypeORM](https://img.shields.io/badge/TypeORM-FE0803?style=flat-square)
+
+### Cloud and Development Tools
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
+![Puppeteer](https://img.shields.io/badge/Puppeteer-40B5A4?style=flat-square&logo=puppeteer&logoColor=white)
+![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
+
+AWS services: S3, ECR, ECS, CodeBuild, and RDS.
+
+### Additional Experience
+
+- **Web:** Angular, .NET, Spring Boot, RESTful APIs, JavaScript, HTML, and CSS.
+- **Languages:** Java, Kotlin, Python, PHP, and C++.
+
+## Professional Experience
+
+**Automatic Neuro Technology Co., Ltd.** · July 2025 – Present
+
+Developing logistics applications, AI document-processing workflows, automation, and AWS deployment pipelines.
+
+**Brainergy** · 2024 – 2025  
+Web Application Development Specialist
+
+Developed Angular web applications, integrated RESTful APIs, and contributed to requirement analysis, system architecture, and .NET backend and database integration.
+
+**Gosoft (Thailand) Co., Ltd.** · 2022 – 2023 · 6 months
+
+Contributed to two All Online web projects, including chatbot and product-review features.
+
+## Education
+
+**Bachelor of Engineering**  
+Panyapiwat Institute of Management · 2021 – 2025
+
+## Contact
+
+- **Email:** [chirot230346@gmail.com](mailto:chirot230346@gmail.com)
+- **GitHub:** [github.com/chirotAunkitti](https://github.com/chirotAunkitti)
